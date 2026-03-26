@@ -1,0 +1,10 @@
+[
+  {
+    "input": "check stock of laptop",
+    "output": "SELECT stock FROM inventory WHERE name='laptop';"
+  },
+  {
+    "input": "show all products",
+    "output": "SELECT * FROM inventory;"
+  }
+]
